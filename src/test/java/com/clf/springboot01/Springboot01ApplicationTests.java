@@ -22,5 +22,10 @@ class Springboot01ApplicationTests {
     void testUser(){
         System.out.println(user);
     }
+    @Test
+    void testUser2(){
+        System.out.println("git test");
+    }
+
 
 }
